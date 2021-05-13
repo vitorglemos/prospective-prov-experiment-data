@@ -1,0 +1,19 @@
+{
+    "phase1": {
+        "task_a1":{
+            "prospective_prov": [13, 1],
+            "visustin": [14, 0],
+            "provenance_curious:": [7, 7],
+        },
+        "task_a2":{
+            "prospective_prov": [14, 0],
+            "visustin": [14, 0],
+            "provenance_curious:": [0, 14],
+        },
+        "task_a3":{
+            "prospective_prov": [13, 1],
+            "visustin": [14, 0],
+            "provenance_curious:": [7, 7]
+        }
+    }
+}
